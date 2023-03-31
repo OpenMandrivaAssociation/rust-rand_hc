@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        0.3.0
-Release:        1
+Release:        2
 Summary:        HC128 random number generator
 
 # Upstream license specification: MIT/Apache-2.0
