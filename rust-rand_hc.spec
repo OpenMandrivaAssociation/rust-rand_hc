@@ -4,8 +4,8 @@
 %global crate rand_hc
 
 Name:           rust-%{crate}
-Version:        0.3.0
-Release:        2
+Version:        0.5.1
+Release:        1
 Summary:        HC128 random number generator
 
 # Upstream license specification: MIT/Apache-2.0
